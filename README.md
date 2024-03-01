@@ -1,4 +1,4 @@
-Connnect the java file to form file using database connector..........!
+Connnect the java file to Database file using database connector..........!
 
 Installing Steps for MySql Database Connector:
 
